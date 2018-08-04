@@ -6,4 +6,4 @@ There may be many edges connecting two components, repeat.py outputs clean.txt l
 
 clean.txt → mis.json;
 
-index.html uses force simulation in d3. Giv edges repulsive force in simulation to separate components and make sure edges do not cross each other. Radius of metanode propotional to SCC size. 
+index.html uses force simulation in d3. Give edges repulsive force in simulation to separate components and make sure edges do not cross each other. Radius of metanode propotional to SCC size. 
